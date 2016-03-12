@@ -275,6 +275,28 @@ body{
 }
 /****************
 *
+*	gallery
+*
+****************/
+.gallery{
+	background:#FFF;
+	position:absolute;
+	float:right;
+	margin:0;
+	padding:0;
+	top:88px;
+	right:0;
+	min-height:400px;
+}
+.gallery .thumb{
+	width:22.95%;
+	margin:10px;
+	margin-left:1%;
+	margin-right:1%;
+	float:left;
+}
+/****************
+*
 * < 1800px
 *
 ****************/
