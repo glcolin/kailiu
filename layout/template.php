@@ -38,11 +38,11 @@
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav">
-						<li><a href="kai-the-photographer">About</a></li>
+						<li><a href="about">About</a></li>
 						<li><a href="#">Testimonials</a></li>
 						<li><a href="#">Service and Quotes</a></li>
 						<li><a href="#">Blog</a></li>
-						<li><a href="#">Contact Us</a></li>
+						<li><a href="contact">Contact Us</a></li>
 					</ul>
 				</div>
 				</div>
@@ -51,11 +51,11 @@
 			
 			<!-- PC, Tablet only -->
 			<nav class="navbar mobile-hide">
-				<a href="kai-the-photographer">About</a>
+				<a href="about">About</a>
 				<a href="#">Testimonials</a>
 				<a href="#">Service and Quotes</a>
 				<a href="#">Blog</a>
-				<a href="#">Contact Us</a>
+				<a href="contact">Contact Us</a>
 			</nav>
 			<!-- END -->
 			
@@ -65,7 +65,7 @@
 			} ?>
 					
 			<footer>
-			<div class="infobar"><span class="glyphicon glyphicon-paperclip" aria-hidden="true"></span> liukaitc@gmail.com | <span class="glyphicon glyphicon-phone" aria-hidden="true"></span> (646)-750-1803</div>
+			<div class="infobar"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> liukaitc@gmail.com | <span class="glyphicon glyphicon-phone" aria-hidden="true"></span> (646)-750-1803</div>
 			&copy; 2011-2016, designed and promoted by <a href="http://www.369usa.com">www.369usa.com</a>
 			</footer>
 		</aside>
