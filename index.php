@@ -29,6 +29,11 @@ switch($page){
 				'portfolio','contact','about','clients'
 			);
 		break;
+	case 'testimonial':
+		$parts =array(
+				'portfolio','testimonial','about','clients'
+			);
+		break;
 	default;
 		die('PAGE NOT EXIST');
 		break;

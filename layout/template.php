@@ -38,8 +38,9 @@
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav">
+						<li><a href="/">Home</a></li>
 						<li><a href="about">About</a></li>
-						<li><a href="#">Testimonials</a></li>
+						<li><a href="testimonials">Testimonials</a></li>
 						<li><a href="#">Service and Quotes</a></li>
 						<li><a href="#">Blog</a></li>
 						<li><a href="contact">Contact Us</a></li>
@@ -51,8 +52,9 @@
 			
 			<!-- PC, Tablet only -->
 			<nav class="navbar mobile-hide">
+				<a href="/">Home</a>
 				<a href="about">About</a>
-				<a href="#">Testimonials</a>
+				<a href="testimonials">Testimonials</a>
 				<a href="#">Service and Quotes</a>
 				<a href="#">Blog</a>
 				<a href="contact">Contact Us</a>

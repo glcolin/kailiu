@@ -311,6 +311,9 @@ body{
 *	about
 *
 ****************/
+article.kai{
+	margin:1%;
+}	
 article.kai h2{
 	font-size:15px;
 	font-weight:bold;
@@ -335,7 +338,51 @@ article img{
 *	Contact
 *
 ****************/
-
+.contact{
+	width:100%;
+}
+.contact iframe{
+		height: 575px !important;
+	}
+/****************
+*
+*	testimonial
+*
+****************/	
+.testimonial{
+	width:100%;
+}
+.testimonial .left{
+	width:19%;
+	float:left;
+} 
+.testimonial .left img, .testimonial .left p{
+	padding-left:10px;
+	max-width:150px;
+	width:100%;
+}
+.testimonial .left p{
+	margin-top:10px;
+	margin-bottom:10px;
+	text-align:center;
+}
+.testimonial .left p a{
+	color:#EEE;
+}
+.testimonial .left p a:hover{
+	color:#ACD048;
+	text-decoration:none;
+}
+.testimonial .right{
+	width:74.8%;
+	float:right;
+} 
+.testimonial .right p{
+	margin-top:5px;
+}
+.testimonial .right p.signiture{
+	text-align:right;
+}
 /****************
 *
 * < 1500px
@@ -483,6 +530,9 @@ article img{
 		float:none !important;
 		width:100%;
 	}
+	.contact iframe{
+		height: 335px !important;
+	}
 }
 /****************
 *
@@ -493,7 +543,19 @@ article img{
 	.grid-sizer, .grid-item{
 		width: 32.75%; 
 	}
-	
+	.testimonial .left,.testimonial .right{
+		width:100%;
+		float:none;
+	}
+	.testimonial .left{
+		text-align:center;
+		margin-bottom:10px;
+	}
+	.testimonial .left img, .testimonial .left p{
+		padding-left:0px;
+		margin:0 auto;
+		width:100%;
+	}
 }
 
 

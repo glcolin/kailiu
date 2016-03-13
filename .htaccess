@@ -9,4 +9,5 @@ RewriteRule ^interior-photography$ /kai/index.php?p=gallery&type=interior [L]
 RewriteRule ^people-photography$ /kai/index.php?p=gallery&type=people [L]
 RewriteRule ^about$ /kai/index.php?p=about [L]
 RewriteRule ^contact$ /kai/index.php?p=contact [L]
+RewriteRule ^testimonials$ /kai/index.php?p=testimonial [L]
 </IfModule>
