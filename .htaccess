@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /kai/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^food-photography /kai/index.php?p=gallery&type=food [L]
+RewriteRule ^interior-photography /kai/index.php?p=gallery&type=interior [L]
+RewriteRule ^people-photography /kai/index.php?p=gallery&type=people [L]
+</IfModule>

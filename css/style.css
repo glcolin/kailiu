@@ -284,7 +284,7 @@ body{
 	padding:0;
 	top:88px;
 	right:0;
-	min-height:400px;
+	min-height:550px;
 }
 .gallery .thumb{
 	-webkit-box-shadow: 0px 1px 1px #000000;
@@ -296,7 +296,6 @@ body{
 }
 .wra .gallery .divider{
 	margin:0;
-	margin-top:15px;
 	margin-bottom:15px;
 	width:100%;
 }
@@ -305,7 +304,7 @@ body{
 	font-size:11px;
 }
 .grid-sizer, .grid-item{
-	width: 24.25%; 
+	width: 24.7%; 
 }
 /****************
 *
@@ -329,7 +328,7 @@ body{
 	.home section{
 		display:none;
 	}
-	.wra, .navbar, .infobar, .home .banner{
+	.wra, .navbar, .infobar, .home .banner, .gallery{
 		position:static !important;
 		width:100%;
 		float:none;
@@ -387,7 +386,7 @@ body{
 }
 /****************
 *
-* < 480px / Mobile
+* < 650px / Mobile
 *
 ****************/
 @media screen and (max-width: 650px){
@@ -443,8 +442,16 @@ body{
 	.home aside .whats-in-kai a{
 		margin-left:3px;
 	}
-
 }
-
+/****************
+*
+* < 650px / Mobile
+*
+****************/
+@media screen and (max-width: 480px){
+	.grid-sizer, .grid-item{
+		width: 32.75%; 
+	}
+}
 
 

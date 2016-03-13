@@ -34,24 +34,24 @@ function compress_image($source_url, $destination_url, $quality) {
 }
 ?>
 
-<div class="tablet-only title highlight">Gallery</div>
+
 
 
 
 <?php
 $images = array();
-$di = new RecursiveDirectoryIterator('photography/images/');
+$di = new RecursiveDirectoryIterator('photography/images/'.$type.'/');
 
 foreach (new RecursiveIteratorIterator($di) as $filename => $file) {
 
 	$filename =str_replace("\\","/",$filename);
 
 	if(substr($filename, -1)!='.'){
-		if (!file_exists('thumbs/'.dirname($filename))) {
-			mkdir('thumbs/'.dirname($filename), 0777, true);
+		if (!file_exists('tmp/thumbs/'.dirname($filename))) {
+			mkdir('tmp/thumbs/'.dirname($filename), 0777, true);
 		}
-		if (!file_exists('thumbs/'.$filename)) {
-			make_thumb($filename,'thumbs/'.$filename, 230);
+		if (!file_exists('tmp/thumbs/'.$filename)) {
+			make_thumb($filename,'tmp/thumbs/'.$filename, 200);
 		}
 		array_push($images,$filename);
 	}
@@ -59,12 +59,13 @@ foreach (new RecursiveIteratorIterator($di) as $filename => $file) {
 ?>
 
 <div class="gallery col-md-8 col-sm-12">	
+<div class="tablet-only title highlight">Gallery</div>
 <div class="divider"></div>	
 		<div id="masonry-grid">
 			<div class="gutter-sizer"></div>
 		<?php foreach($images as $image){ ?>
 			<div class="grid-item">
-				<a href="<?php echo $image;?>"><img border="0" src="<?php echo 'thumbs/'.$image;?>" class="thumb" /></a>
+				<a href="<?php echo $image;?>"><img border="0" src="<?php echo 'tmp/thumbs/'.$image;?>" class="thumb" /></a>
 			</div>
 		<?php } ?>
 		</div>

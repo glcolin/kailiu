@@ -17,6 +17,7 @@ switch($page){
 		$parts =array(
 				'portfolio','gallery','about','clients'
 			);
+		$type = $_GET['type'];
 		break;
 	default;
 		die('PAGE NOT EXIST');
