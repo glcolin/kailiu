@@ -1,7 +1,6 @@
 .tablet-only, .mobile-only{
 	display:none;
 }
-
 .glyphicon-ok{
 	color:#ACD048;
 	padding:2px;
@@ -34,7 +33,7 @@ body{
 	position:relative;
 }
 .wra .col-md-4{
-	position:initial !important;
+	position:static !important;
 }
 .navbar{
 	position:absolute;
@@ -279,7 +278,6 @@ body{
 *
 ****************/
 .gallery{
-	background:#FFF;
 	position:absolute;
 	float:right;
 	margin:0;
@@ -289,48 +287,32 @@ body{
 	min-height:400px;
 }
 .gallery .thumb{
-	width:22.95%;
-	margin:10px;
-	margin-left:1%;
-	margin-right:1%;
-	float:left;
+	-webkit-box-shadow: 0px 1px 1px #000000;
+	-moz-box-shadow: 0px 1px 1px #000000;
+	box-shadow: 0px 1px 1px #000000;
+	margin-bottom:15px;
+	width:93%;
+	margin-left:7%;
+}
+.wra .gallery .divider{
+	margin:0;
+	margin-top:15px;
+	margin-bottom:15px;
+	width:100%;
+}
+.gallery  .claim{
+	text-align:center;
+	font-size:11px;
+}
+.grid-sizer, .grid-item{
+	width: 24.25%; 
 }
 /****************
 *
-* < 1800px
+* < 1500px
 *
 ****************/
-@media screen and (max-width: 1800px){
-	.wra{
-		width:83.33%;
-	}
-}
-/****************
-*
-* < 1600px
-*
-****************/
-@media screen and (max-width: 1600px){
-	.wra{
-		width:88%;
-	}
-}
-/****************
-*
-* < 1400px
-*
-****************/
-@media screen and (max-width: 1400px){
-	.wra{
-		width:94%;
-	}
-}
-/****************
-*
-* < 1200px
-*
-****************/
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1500px){
 	.wra{
 		width:100%;
 	}
@@ -348,7 +330,7 @@ body{
 		display:none;
 	}
 	.wra, .navbar, .infobar, .home .banner{
-		position:initial !important;
+		position:static !important;
 		width:100%;
 		float:none;
 	}
