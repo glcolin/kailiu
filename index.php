@@ -19,6 +19,11 @@ switch($page){
 			);
 		$type = $_GET['type'];
 		break;
+	case 'about':
+		$parts =array(
+				'portfolio','aboutkai','whatsinkai','clients'
+			);
+		break;
 	default;
 		die('PAGE NOT EXIST');
 		break;

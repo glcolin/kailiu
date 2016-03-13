@@ -38,7 +38,7 @@
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav">
-						<li><a href="#">About Kai</a></li>
+						<li><a href="kai-the-photographer">About</a></li>
 						<li><a href="#">Testimonials</a></li>
 						<li><a href="#">Service and Quotes</a></li>
 						<li><a href="#">Blog</a></li>
@@ -51,7 +51,7 @@
 			
 			<!-- PC, Tablet only -->
 			<nav class="navbar mobile-hide">
-				<a href="#">About Kai</a>
+				<a href="kai-the-photographer">About</a>
 				<a href="#">Testimonials</a>
 				<a href="#">Service and Quotes</a>
 				<a href="#">Blog</a>

@@ -22,7 +22,7 @@
 }
 body{
 	background-color: #272727;
-	color:#DDD;
+	color:#EEE;
 	padding:0;
 	margin:0;
 }
@@ -308,6 +308,30 @@ body{
 }
 /****************
 *
+*	about
+*
+****************/
+article.kai h2{
+	font-size:15px;
+	font-weight:bold;
+	color:#FFF;
+}
+article.kai h3{
+	font-size:13px;
+	font-weight:bold;
+	color:#FFF;
+}
+article.kai p{
+	font-size:13px;
+	text-align:justify;
+}
+article img{
+	-webkit-box-shadow: 0px 1px 1px #000000;
+	-moz-box-shadow: 0px 1px 1px #000000;
+	box-shadow: 0px 1px 1px #000000;
+}
+/****************
+*
 * < 1500px
 *
 ****************/
@@ -442,16 +466,24 @@ body{
 	.home aside .whats-in-kai a{
 		margin-left:3px;
 	}
+	article img{
+		margin:0 !important;
+		margin-top:10px !important;
+		margin-bottom:10px !important;
+		float:none !important;
+		width:100%;
+	}
 }
 /****************
 *
-* < 650px / Mobile
+* < 480px / Mobile
 *
 ****************/
 @media screen and (max-width: 480px){
 	.grid-sizer, .grid-item{
 		width: 32.75%; 
 	}
+	
 }
 
 
