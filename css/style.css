@@ -342,7 +342,7 @@ article img{
 	width:100%;
 }
 .contact iframe{
-		height: 575px !important;
+		height: 475px !important;
 	}
 /****************
 *
@@ -382,6 +382,65 @@ article img{
 }
 .testimonial .right p.signiture{
 	text-align:right;
+}
+/****************
+*
+*	Services
+*
+****************/	
+#quotes{
+	float:right;
+	width:40%;
+	min-height:300px;
+	margin-top:3px;
+	margin-left:15px;
+	margin-bottom:15px;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+}
+#quotes .head{
+	height:65px;
+	background:#FFCB08;
+	text-align:center;
+	-webkit-border-top-left-radius: 12px;
+	-moz-border-top-left-radius: 12px;
+	border-top-left-radius: 12px;
+	-webkit-border-top-right-radius: 12px;
+	-moz-border-top-right-radius: 12px;
+	border-top-right-radius: 12px;
+}
+#quotes .head h4{
+	margin:0;
+	padding:20px;
+	color:#000;
+	font-size:23px;
+	font-weight:bold;
+}
+#quotes .body{
+	min-height:250px;
+	background:#FFF;
+	-webkit-border-bottom-left-radius: 12px;
+	-moz-border-bottom-left-radius: 12px;
+	border-bottom-left-radius: 12px;
+	-webkit-border-bottom-right-radius: 12px;
+	-moz-border-bottom-right-radius: 12px;
+	border-bottom-right-radius: 12px;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+#quotes .body input[type=text], #quotes .body textarea{
+	width:85%;
+	margin:5px auto;
+	margin-top:15px;
+}
+#quotes .body input[type=submit]{
+	width:85%;
+	margin:5px auto;
+}
+#quotes .body textarea{
+	height:100px;
+	margin-bottom:15px;
 }
 /****************
 *
@@ -531,7 +590,7 @@ article img{
 		width:100%;
 	}
 	.contact iframe{
-		height: 335px !important;
+		height: 300px !important;
 	}
 }
 /****************
