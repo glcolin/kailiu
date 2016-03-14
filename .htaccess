@@ -7,8 +7,11 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^food-photography$ /kai/index.php?p=gallery&type=food [L]
 RewriteRule ^interior-photography$ /kai/index.php?p=gallery&type=interior [L]
 RewriteRule ^people-photography$ /kai/index.php?p=gallery&type=people [L]
+RewriteRule ^video$ /kai/index.php?p=video [L]
 RewriteRule ^about$ /kai/index.php?p=about [L]
 RewriteRule ^contact$ /kai/index.php?p=contact [L]
 RewriteRule ^testimonials$ /kai/index.php?p=testimonial [L]
 RewriteRule ^service-and-quotes$ /kai/index.php?p=services [L]
+RewriteRule ^blog$ /kai/index.php?p=blog [L]
+RewriteRule ^(\D*)\-(\d+\-.*)$ /kai/index.php?p=article&d=$1&f=$2 [L]
 </IfModule>

@@ -39,6 +39,21 @@ switch($page){
 				'portfolio','services','whatsinkai','clients'
 			);
 		break;
+	case 'blog':
+		$parts =array(
+				'portfolio','blog','whatsinkai','clients'
+			);
+		break;
+	case 'article':
+		$parts =array(
+				'portfolio','article','whatsinkai','clients'
+			);
+		break;
+	case 'video':
+		$parts =array(
+				'portfolio','video','about','clients'
+			);
+		break;
 	default;
 		die('PAGE NOT EXIST');
 		break;

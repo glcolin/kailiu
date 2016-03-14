@@ -42,7 +42,7 @@
 						<li><a href="about">About</a></li>
 						<li><a href="testimonials">Testimonials</a></li>
 						<li><a href="service-and-quotes">Service and Quotes</a></li>
-						<li><a href="//kailiublog.com/">Blog</a></li>
+						<li><a href="blog">Blog</a></li>
 						<li><a href="contact">Contact Us</a></li>
 					</ul>
 				</div>
@@ -56,7 +56,7 @@
 				<a href="about">About</a>
 				<a href="testimonials">Testimonials</a>
 				<a href="service-and-quotes">Service and Quotes</a>
-				<a href="//kailiublog.com/">Blog</a>
+				<a href="blog">Blog</a>
 				<a href="contact">Contact Us</a>
 			</nav>
 			<!-- END -->

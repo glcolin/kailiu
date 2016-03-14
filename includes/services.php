@@ -5,6 +5,8 @@
 		
 		<h2>Service and Quotes</h2>
 		
+		<div class="services">
+		
 		<div id="quotes">
 			<form action="#" method="GET">
 				<div class="head">
@@ -19,6 +21,8 @@
 				</div>
 			</form>
 		</div>
+		
+		<div class="content">
 		
 		<p>As part of determining the pricing method you wish to use to set your fees, you need to consider the available pricing options. There are various ways to charge for your your legal services ¨C hourly, contingent fee, fixed rate, or some alternative structure. The type of pricing appropriate for your practice will depend on a number of factors, including, the field in which you practice, the nature of the client's case, and the client's request for alternatives, if any. This article discusses hourly pricing.
 Hourly rates are commonly used in the legal world to price legal services. The law firm model is generally based on the billable hour, that is, attorneys are accountable for, and charge clients, in one-sixth of an hour increments.  
@@ -46,6 +50,10 @@ Above all else, attorney fees must be reasonable and comply with your state's ru
 		<p>
 		- See more at: http://practice.findlaw.com/financing-a-law-firm/types-of-pricing-for-legal-services-hourly-billing.html#sthash.M3DsYVzL.dpuf
 		</p>
+		
+		</div>
+		
+		</div>
 		
 </article>
 <div class="clear"></div>

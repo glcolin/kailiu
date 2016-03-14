@@ -15,7 +15,7 @@
 						People
 					</li>
 					<li>
-						<div class="overlay"><a href="#"><img src="images/home-port-2.png" border="0" alt="" /></a></div><br/>
+						<div class="overlay"><a href="video"><img src="images/home-port-2.png" border="0" alt="" /></a></div><br/>
 						Video
 					</li>
 				</ul>

@@ -6,6 +6,6 @@
 				I spealize in food photography.
 				I am also doing video for event, wedding, music video and commerical video.<br/>
 				We are living in the era of imagery ... <br/>
-				<a href="#">Read more</a>
+				<a href="about">Read more</a>
 				</p>
 			</div>

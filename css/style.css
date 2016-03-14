@@ -444,6 +444,30 @@ article img{
 }
 /****************
 *
+*	blogs
+*
+****************/	
+.blog-list p{
+	padding-left:5px;
+}
+.blog-list p a{
+	color:#EEE;
+}
+.blog-list p a:hover{
+	color:#EEE;
+	text-decoration:none;
+	color:#ACD048;
+}
+.bread{
+	font-size:11px !important;
+}
+.bread a{
+	color:#EEE;
+	text-decoration:underline;
+	font-size:11px;
+}
+/****************
+*
 * < 1500px
 *
 ****************/
@@ -591,6 +615,44 @@ article img{
 	}
 	.contact iframe{
 		height: 300px !important;
+	}
+	#quotes{
+		width:100%;
+		float:none;
+		margin:0;
+		margin-top:10px;
+		margin-bottom:20px;
+	}
+	#quotes .head{
+		-webkit-border-radius: 0px;
+		-moz-border-radius: 0px;
+		border-radius: 0px;
+	}
+	#quotes .body{
+		-webkit-border-radius: 0px;
+		-moz-border-radius: 0px;
+		border-radius: 0px;
+	}
+	article.kai .services{
+		transform: rotate(180deg);
+		-webkit-transform: rotate(180deg);
+		-moz-transform: rotate(180deg);
+		-o-transform: rotate(180deg);
+		-ms-transform: rotate(180deg);
+	}
+	article.kai .services #quotes{
+		transform: rotate(180deg);
+		-webkit-transform: rotate(180deg);
+		-moz-transform: rotate(180deg);
+		-o-transform: rotate(180deg);
+		-ms-transform: rotate(180deg);
+	}
+	article.kai .services .content{
+		transform: rotate(180deg);
+		-webkit-transform: rotate(180deg);
+		-moz-transform: rotate(180deg);
+		-o-transform: rotate(180deg);
+		-ms-transform: rotate(180deg);
 	}
 }
 /****************
