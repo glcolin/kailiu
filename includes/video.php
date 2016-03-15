@@ -2,19 +2,23 @@
 <div class="tablet-only title highlight">About Kai</div>
 <div class="divider"></div>	
 <article class="kai">
-		<h2>Kai's Video</h2>
+		<h2>All video were shoot and edit by Kai Liu Visual</h2>
 	
-		<h3>Man doesn't play for dinner check</h3>
-		<iframe width="100%" height="380" style="margin:0px;margin-bottom:30px;" src="https://www.youtube.com/embed/v0_cXepCVgg" frameborder="0" allowfullscreen></iframe>
+		<h3></h3>
+		<iframe src="https://player.vimeo.com/video/157240549" width="100%" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/157240549">02 18 2016 NY fashion week after party</a> from <a href="https://vimeo.com/kailiuvisual">kailiuvisual</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 		
-		<h3>Man doesn't play for dinner check</h3>
-		<iframe width="100%" height="380" style="margin:0px;margin-bottom:30px;" src="https://www.youtube.com/embed/v0_cXepCVgg" frameborder="0" allowfullscreen></iframe>
+		<h3></h3>
+		<iframe src="https://player.vimeo.com/video/117686160" width="100%" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/117686160">Preserve24</a> from <a href="https://vimeo.com/kailiuvisual">kailiuvisual</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 		
-		<h3>Man doesn't play for dinner check</h3>
-		<iframe width="100%" height="380" style="margin:0px;margin-bottom:30px;" src="https://www.youtube.com/embed/v0_cXepCVgg" frameborder="0" allowfullscreen></iframe>
+		<h3></h3>
+		<iframe src="https://player.vimeo.com/video/116174530" width="100%" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/116174530">T-swirl cr&ecirc;pe</a> from <a href="https://vimeo.com/kailiuvisual">kailiuvisual</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 		
-		<h3>Man doesn't play for dinner check</h3>
-		<iframe width="100%" height="380" style="margin:0px;margin-bottom:30px;" src="https://www.youtube.com/embed/v0_cXepCVgg" frameborder="0" allowfullscreen></iframe>
+		<h3></h3>
+		<iframe src="https://player.vimeo.com/video/116165563" width="100%" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/116165563">KaiLiu Visual Live event video Reel</a> from <a href="https://vimeo.com/kailiuvisual">kailiuvisual</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 	
 </article>
