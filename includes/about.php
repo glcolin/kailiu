@@ -4,8 +4,8 @@
 				<p>
 				I am a New York based freelance photographer/videographer
 				I spealize in food photography.
-				I am also doing video for event, wedding, music video and commerical video.<br/>
-				We are living in the era of imagery ... <br/>
+				I am also doing video for event, shows, wedding, music video and commercial video.<br/>
+				<br/>
 				<a href="about">Read more</a>
 				</p>
 			</div>
