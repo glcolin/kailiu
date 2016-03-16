@@ -80,6 +80,17 @@ switch($page){
 			);
 		break;
 	case 'article':
+		//set keywords, title and description:
+		$title = str_replace('-', ' ' ,$_GET['d']).' photography blog -'.preg_replace('/^\d+/' ,'' ,str_replace('-', ' ' ,$_GET['f']));
+		$article_content = file_get_contents('photography/blog/'.$_GET['d'].'/'.$_GET['f'].'.html');
+		$description = preg_replace('/^[^\.]*\./','',substr(preg_replace('/<h\d>.*<\/h\d>|<\s*img.*>|<[^>]*>|"/','',($article_content)),80,300));
+		$pool = array('ny food photography','ny food photographer','new york food photography','new york food photographer','nyc food photography','nyc food photographer','new york affordable food photographer','food photographer ny','food photographer nyc','nyc affordable food photographer','ny affordable food photographer','food photographer new york');
+		$index = strlen($article_content)%count($pool);
+		$keywords = $pool[$index].', '; unset($pool[$index]);
+		$index = strlen($title)%count($pool);
+		$keywords .= $pool[$index].', '; unset($pool[$index]);
+		$index = strlen($description)%count($pool);
+		$keywords .= $pool[$index];
 		$parts =array(
 				'portfolio','article','whatsinkai','clients'
 			);

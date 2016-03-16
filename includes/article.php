@@ -22,8 +22,10 @@
 	<div class="blog-article">
 	<p class="bread"><a href="/">Home</a> > <a href="blog">Blog</a> > <?php echo str_replace('-', ' ' ,$_GET['f']);?> > <?php echo str_replace('-', ' ' ,$_GET['f']);?></p>
 	<?php
-		require_once('photography/blog/'.$_GET['d'].'/'.$_GET['f'].'.html');
+		echo $article_content;
 	?>
+	<p>&nbsp;</p>
+	<?php echo '<i style="font-size:12px;color:#BBB;">Keywords : '.$keywords.'</i>';?>
 	</div>
 	
 </article>
