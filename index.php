@@ -10,9 +10,9 @@ switch($page){
 
 	case 'index':
 		//BEGIN:::
-		$title = 'The most affordable food photographer in NYC';
-		$description = 'I am a New York based freelance photographer/videographer. I spealize in food photography. I am also doing video for event, shows, wedding, music video and commercial video.';
-		$keywords = 'food photographer, low cost food photographer, ny food photographer, ny food photography';
+		$title = 'Kai Liu Visual - The most affordable food photographer in New York';
+		$description = 'Kai Liu is a New York based all around photographer and videographer. He specialize in food photography.';
+		$keywords = 'food photographer, low cost food photographer, New York food photographer, New York food photography';
 		//:::END
 		$parts = array(
 				'whatsinkai','portfolio','highlight','about','clients'
