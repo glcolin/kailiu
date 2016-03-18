@@ -15,7 +15,7 @@ switch($page){
 		$keywords = 'food photographer, low cost food photographer, New York food photographer, New York food photography';
 		//:::END
 		$parts = array(
-				'whatsinkai','portfolio','highlight','about','clients'
+				'portfolio','highlight','about','whatsinkai','clients'
 			);
 		break;
 	case 'gallery':
@@ -86,9 +86,9 @@ switch($page){
 		$description = preg_replace('/^[^\.]*\./','',substr(preg_replace('/<h\d>.*<\/h\d>|<\s*img.*>|<[^>]*>|"/','',($article_content)),80,300));
 		$pool = array('ny food photography','ny food photographer','new york food photography','new york food photographer','nyc food photography','nyc food photographer','new york affordable food photographer','food photographer ny','food photographer nyc','nyc affordable food photographer','ny affordable food photographer','food photographer new york');
 		$index = strlen($article_content)%count($pool);
-		$keywords = $pool[$index].', '; unset($pool[$index]);
+		$keywords = $pool[$index].', '; unset($pool[$index]);$pool = array_values($pool);
 		$index = strlen($title)%count($pool);
-		$keywords .= $pool[$index].', '; unset($pool[$index]);
+		$keywords .= $pool[$index].', '; unset($pool[$index]);$pool = array_values($pool);
 		$index = strlen($description)%count($pool);
 		$keywords .= $pool[$index];
 		$parts =array(

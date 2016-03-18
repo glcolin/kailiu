@@ -215,6 +215,11 @@ body{
 	text-decoration:none;
 	color:#ACD048;
 }
+.home aside .whats-in-kai p{
+	margin-left:60px !important;
+	color:#ccc !important;
+	font-size:12px;
+}
 .home aside .portfolio{
 	width:100%;
 	padding-top:15px;
