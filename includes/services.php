@@ -23,13 +23,22 @@
 		</div>
 		<script>
 		$(document).ready(function(){	
+			$('input[type=text]').focus(function(){
+				$('input[type=text]').css('background','#FFF');
+			});
 			$('input[type=submit]').click(function(e){
+				if($('input[name="name"]').val().trim()==''){$('input[name="name"]').css('background','#D00');return false;}
+				if($('input[name="phone"]').val().trim()=='' && $('input[name="email"]').val().trim()==''){
+					$('input[name="phone"]').css('background','#D00');$('input[name="email"]').css('background','#D00');return false
+				}
 				var message = $('input[name="name"]').val()+' | '+$('input[name="phone"]').val()+' | '+$('input[name="email"]').val()+' | '+$('textarea[name="message"]').val()
 				e.preventDefault();
-				$('#quotes .body').html('<p style="margin-top:100px;text-align:center;color:#666;font-size:20px;">sending ...<br/>please be patient!</p>');
+				$('#quotes .body').html('<p style="margin-top:100px;text-align:center;color:#666;font-size:13px;">sending ...<br/>please wait!</p>');
 				$.post( 'includes/mail.php', { message : message })
 					.done(function( data ) {
-						$('#quotes .body').html('<p style="margin-top:80px;text-align:center;color:#666;font-size:20px;">sent!<br/>Thank you very much!<br/>We will get back to you ASAP.</p>');
+						setTimeout(function(){
+						$('#quotes .body').html('<p style="margin-top:80px;text-align:center;color:#666;font-size:13px;">Message has been sent!<br/>Thank you very much!<br/>We will get back to you ASAP.</p>');
+						}, 2000);
 					});
 			});
 		});
