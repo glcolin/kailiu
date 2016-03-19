@@ -395,7 +395,7 @@ article img{
 ****************/	
 #quotes{
 	float:right;
-	width:40%;
+	width:33%;
 	min-height:300px;
 	margin-top:3px;
 	margin-left:15px;
@@ -405,7 +405,7 @@ article img{
 	border-radius: 12px;
 }
 #quotes .head{
-	height:65px;
+	height:35px;
 	background:#FFCB08;
 	text-align:center;
 	-webkit-border-top-left-radius: 12px;
@@ -417,13 +417,13 @@ article img{
 }
 #quotes .head h4{
 	margin:0;
-	padding:20px;
+	padding:10px;
 	color:#000;
-	font-size:23px;
+	font-size:18px;
 	font-weight:bold;
 }
 #quotes .body{
-	min-height:250px;
+	min-height:318px;
 	background:#FFF;
 	-webkit-border-bottom-left-radius: 12px;
 	-moz-border-bottom-left-radius: 12px;
@@ -432,7 +432,7 @@ article img{
 	-moz-border-bottom-right-radius: 12px;
 	border-bottom-right-radius: 12px;
 	padding-top:15px;
-	padding-bottom:15px;
+	padding-bottom:5px;
 }
 #quotes .body input[type=text], #quotes .body textarea{
 	width:85%;
@@ -444,7 +444,7 @@ article img{
 	margin:5px auto;
 }
 #quotes .body textarea{
-	height:100px;
+	height:80px;
 	margin-bottom:15px;
 }
 /****************

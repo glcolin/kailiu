@@ -8,19 +8,32 @@
 		<div class="services">
 		
 		<div id="quotes">
-			<form action="#" method="GET">
+			<form>
 				<div class="head">
 					<h4>Get a Quote NOW!</h4> 
 				</div>
 				<div class="body">
-					<input type="text" class="form-control" placeholder="Your Name" />
-					<input type="text" class="form-control" placeholder="Phone Number" />
-					<input type="text" class="form-control" placeholder="Email Address" />
-					<textarea class="form-control"  placeholder="Any questions or you can write down your budget here ..."></textarea>
+					<input type="text" name="name" class="form-control" placeholder="Your Name" />
+					<input type="text" name="phone" class="form-control" placeholder="Phone Number" />
+					<input type="text" name="email" class="form-control" placeholder="Email Address" />
+					<textarea  name="message" class="form-control"  placeholder="Any questions or you can write down your budget here ..."></textarea>
 					<input type="submit" class="form-control btn-success" value="Submit" />
 				</div>
 			</form>
 		</div>
+		<script>
+		$(document).ready(function(){	
+			$('input[type=submit]').click(function(e){
+				var message = $('input[name="name"]').val()+' | '+$('input[name="phone"]').val()+' | '+$('input[name="email"]').val()+' | '+$('textarea[name="message"]').val()
+				e.preventDefault();
+				$('#quotes .body').html('<p style="margin-top:100px;text-align:center;color:#666;font-size:20px;">sending ...<br/>please be patient!</p>');
+				$.post( 'includes/mail.php', { message : message })
+					.done(function( data ) {
+						$('#quotes .body').html('<p style="margin-top:80px;text-align:center;color:#666;font-size:20px;">sent!<br/>Thank you very much!<br/>We will get back to you ASAP.</p>');
+					});
+			});
+		});
+		</script>
 		
 		<div class="content">
 		
