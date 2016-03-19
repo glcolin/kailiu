@@ -25,11 +25,20 @@
 		<div class="content">
 		
 		<p>
+		<ul>
+		<li>Five years of experience</li>
+		<li>Affordable, low cost rate, yet still providing great result.</li>
+		<li>Fast turn around time.</li>
+		<li>Excellent lighting skill and tethered screen for client's real time feedback</li>
+		<li>I prefer per image price policy. Worry-free on your side. If you do not like any photo I take. Fine, you do not need to spend a dime.</li>
+		<li>Reliable, strong working ethic. I believe these characteristics outweigh any sell skill for a business relationship in long term.</li>
+		</p>
+		<p>
 		Rate:
 		</br>
 		Food Photography (retouch and usage fee included)
 		</br>
-		fisrt image is $100. The rest is $70/image.
+		$70/image.
 		</br>
 		</br>
 		Interior Photography (retouch and usage fee included)
@@ -42,7 +51,7 @@
 		$100/hour
 		</br>
 		</br>
-		Video (include editing)
+		Video
 		</br>
 		Start from $125/hour
 		

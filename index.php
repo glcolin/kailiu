@@ -10,9 +10,9 @@ switch($page){
 
 	case 'index':
 		//BEGIN:::
-		$title = 'Kai Liu Visual - The most affordable food photographer in New York';
-		$description = 'Kai Liu is a New York based all around photographer and videographer. He specialize in food photography.';
-		$keywords = 'food photographer, low cost food photographer, New York food photographer, New York food photography';
+		$title = 'Food Photographer | Affordable Food Photographer | New York-Kai Liu Visual';
+		$description = 'Kai Liu is a New York based photographer and videographer. He specialize in food photography. Food Photographer. Interior Photographer. Videographer. ';
+		$keywords = 'food photographer, affordable food photographer, New York food photographer, New York food photography';
 		//:::END
 		$parts = array(
 				'portfolio','highlight','about','whatsinkai','clients'
@@ -20,9 +20,9 @@ switch($page){
 		break;
 	case 'gallery':
 		//BEGIN:::
-		$title = '';
+		$title = 'Kai Liu Visual Portfolio';
 		$description = '';
-		$keywords = '';
+		$keywords = 'new york food photographer, new york interior photographer, new york event photographer';
 		//:::END
 		$parts =array(
 				'portfolio','gallery','about','clients'
@@ -31,9 +31,9 @@ switch($page){
 		break;
 	case 'about':
 		//BEGIN:::
-		$title = 'About Kai Liu';
+		$title = 'About Kai Liu Food Photographer';
 		$description = 'I am a New York based freelance photographer/videographer. I spealize in food photography. I am also doing video for event, shows, wedding, music video and commercial video.';
-		$keywords = 'food photographer, low cost food photographer';
+		$keywords = 'food photographer, Affordable food photographer';
 		//:::END
 		$parts =array(
 				'portfolio','aboutkai','whatsinkai','clients'
@@ -41,9 +41,9 @@ switch($page){
 		break;
 	case 'contact':
 		//BEGIN:::
-		$title = '';
-		$description = '';
-		$keywords = '';
+		$title = 'Contact Kai Liu Food Photographer';
+		$description = 'phone number and e-mail address of Kai Liu Visual';
+		$keywords = 'Food Photographer, New York food photographer, New York food photography';
 		//:::END
 		$parts =array(
 				'portfolio','contact','about','clients'
@@ -51,9 +51,9 @@ switch($page){
 		break;
 	case 'testimonial':
 		//BEGIN:::
-		$title = '';
-		$description = '';
-		$keywords = '';
+		$title = 'Review of Kai Liu Visual';
+		$description = 'see what clients say about Kai Liu Visual';
+		$keywords = 'New York food photographer, new york affordable food photographer';
 		//:::END
 		$parts =array(
 				'portfolio','testimonial','about','clients'
@@ -61,9 +61,9 @@ switch($page){
 		break;
 	case 'services':
 		//BEGIN:::
-		$title = '';
-		$description = '';
-		$keywords = '';
+		$title = 'Service of Kai Liu Visual';
+		$description = 'Kai Liu Visual provides high quality food photography service with best price in New York.';
+		$keywords = 'new york food photography, new york affordable food photographer, new york low cost food photographer,';
 		//:::END
 		$parts =array(
 				'portfolio','services','whatsinkai','clients'
@@ -71,9 +71,9 @@ switch($page){
 		break;
 	case 'blog':
 		//BEGIN:::
-		$title = '';
+		$title = 'Blog of Kai Liu Food photography';
 		$description = '';
-		$keywords = '';
+		$keywords = 'new york food photography blog, new york food photographer blog,';
 		//:::END
 		$parts =array(
 				'portfolio','blog','whatsinkai','clients'
@@ -97,9 +97,9 @@ switch($page){
 		break;
 	case 'video':
 		//BEGIN:::
-		$title = '';
-		$description = '';
-		$keywords = '';
+		$title = 'Kai Liu videographer | film maker';
+		$description = 'Kai Liu Visual provide video service';
+		$keywords = 'New York videographer, New York film maker, New York event videographer';
 		//:::END
 		$parts =array(
 				'portfolio','video','about','clients'

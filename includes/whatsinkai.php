@@ -3,13 +3,13 @@
 			<div class="whats-in-kai">
 				<h3> <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>&nbsp; Most affordable price in town.<span class="mobile-hide"><br/></span>
 				<a class="detail" href="#">Show detail</a></h3>
-				<p style="display:none;">The .slideToggle() method animates the height of the matched elements. This causes lower parts of the page to slide up or down, appearing to reveal or conceal the items. If the element is initially displayed, it will be hidden; if hidden, it will be shown. The display property is saved and restored as needed. If an element has a display value of inline, then is hidden and shown, it will once again be displayed inline. When the height reaches 0 after a hiding animation, the display style property is set to none to ensure that the element no longer affects the layout of the page.</p>
+				<p style="display:none;">One of Kai's client said to Kai. He has worked with many food photographers. Kai has the best price at this skill level.</p>
 				<h3> <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>&nbsp; Specializes in food photography.<span class="mobile-hide"><br/></span>
 				<a class="detail" href="#">Show detail</a></h3>
-				<p style="display:none;">The .slideToggle() method animates the height of the matched elements. This causes lower parts of the page to slide up or down, appearing to reveal or conceal the items. If the element is initially displayed, it will be hidden; if hidden, it will be shown. The display property is saved and restored as needed. If an element has a display value of inline, then is hidden and shown, it will once again be displayed inline. When the height reaches 0 after a hiding animation, the display style property is set to none to ensure that the element no longer affects the layout of the page.</p>
+				<p style="display:none;">Kai has photographed many restaurants in New York. Kai has mastered lighting. No matter how dark your venue is, Kai can still make your food looks amazing in the photo.</p>
 				<h3> <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Too serious, lack of humor.<span class="mobile-hide"><br/></span>
 				<a class="detail" href="#">Show detail</a></h3>
-				<p style="display:none;">The .slideToggle() method animates the height of the matched elements. This causes lower parts of the page to slide up or down, appearing to reveal or conceal the items. If the element is initially displayed, it will be hidden; if hidden, it will be shown. The display property is saved and restored as needed. If an element has a display value of inline, then is hidden and shown, it will once again be displayed inline. When the height reaches 0 after a hiding animation, the display style property is set to none to ensure that the element no longer affects the layout of the page.</p>
+				<p style="display:none;">Kai is too serious because Kai takes your business seriously.</p>
 			</div>
 			<script>
 			$(document).ready(function(){
