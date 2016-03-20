@@ -10,8 +10,8 @@ switch($page){
 
 	case 'index':
 		//BEGIN:::
-		$title = 'Food Photographer | Affordable Food Photographer | New York-Kai Liu Visual';
-		$description = 'Kai Liu is a New York based photographer and videographer. He specialize in food photography. Food Photographer. Interior Photographer. Videographer. ';
+		$title = 'Food Photographer | Affordable Food Photographer | New York - Kai Liu Visual';
+		$description = 'Kai Liu is a New York based photographer and videographer. He specialize in food photography. Food Photographer. Interior Photographer. Videographer.';
 		$keywords = 'food photographer, affordable food photographer, New York food photographer, New York food photography';
 		//:::END
 		$parts = array(
@@ -20,7 +20,7 @@ switch($page){
 		break;
 	case 'gallery':
 		//BEGIN:::
-		$title = 'Kai Liu Visual Portfolio';
+		$title = 'Portfolio of Kai Liu Visual';
 		$description = '';
 		$keywords = 'new york food photographer, new york interior photographer, new york event photographer';
 		//:::END
@@ -31,7 +31,7 @@ switch($page){
 		break;
 	case 'about':
 		//BEGIN:::
-		$title = 'About Kai Liu Food Photographer';
+		$title = 'About Kai Liu Visual';
 		$description = 'I am a New York based freelance photographer/videographer. I spealize in food photography. I am also doing video for event, shows, wedding, music video and commercial video.';
 		$keywords = 'food photographer, Affordable food photographer';
 		//:::END
@@ -41,7 +41,7 @@ switch($page){
 		break;
 	case 'contact':
 		//BEGIN:::
-		$title = 'Contact Kai Liu Food Photographer';
+		$title = 'Contact Kai Liu Visual';
 		$description = 'phone number and e-mail address of Kai Liu Visual';
 		$keywords = 'Food Photographer, New York food photographer, New York food photography';
 		//:::END
@@ -71,7 +71,7 @@ switch($page){
 		break;
 	case 'blog':
 		//BEGIN:::
-		$title = 'Blog of Kai Liu Food photography';
+		$title = 'Blog of Kai Liu Visual';
 		$description = '';
 		$keywords = 'new york food photography blog, new york food photographer blog,';
 		//:::END

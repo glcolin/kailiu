@@ -22,14 +22,14 @@
 	<div class="wra home">
 		<aside class="col-md-4 col-sm-12">
 			<header>
-					<p>The Most Affordable<br/>Food Photographer in New York</p>		
+					<p>Kai Liu Visual<br/>Affordable Food Photographer in New York</p>		
 			</header>
 			
 			<!-- Mobile only -->
 			<nav class="navbar navbar-inverse mobile-only">
 				<div class="container-fluid">
 				<div class="navbar-header">
-					<a class="navbar-brand" href="#">Kai Liu Visual Studio<br/><span>The most affordable food protographer in New York</span></a>
+					<a class="navbar-brand" href="#">Kai Liu Visual<br/><span>Affordable food protographer in New York</span></a>
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>

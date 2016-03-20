@@ -16,7 +16,7 @@
 					<input type="text" name="name" class="form-control" placeholder="Your Name" />
 					<input type="text" name="phone" class="form-control" placeholder="Phone Number" />
 					<input type="text" name="email" class="form-control" placeholder="Email Address" />
-					<textarea  name="message" class="form-control"  placeholder="Any questions or you can write down your budget here ..."></textarea>
+					<textarea  name="message" class="form-control"  placeholder="Fell free to message me ..."></textarea>
 					<input type="submit" class="form-control btn-success" value="Submit" />
 				</div>
 			</form>

@@ -3,13 +3,13 @@
 			<div class="whats-in-kai">
 				<h3> <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>&nbsp; Most affordable price in town.<span class="mobile-hide"><br/></span>
 				<a class="detail" href="#">Show detail</a></h3>
-				<p style="display:none;">One of Kai's client said to Kai. He has worked with many food photographers. Kai has the best price at this skill level.</p>
+				<p style="display:none;">One of Kai's client said to Kai. He has worked with many food photographers before. Kai has the best price at this skill level.</p>
 				<h3> <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>&nbsp; Specializes in food photography.<span class="mobile-hide"><br/></span>
 				<a class="detail" href="#">Show detail</a></h3>
-				<p style="display:none;">Kai has photographed many restaurants in New York. Kai has mastered lighting. No matter how dark your venue is, Kai can still make your food looks amazing in the photo.</p>
+				<p style="display:none;">Kai has photographed many restaurants in New York. He has mastered lighting. No matter how dark your venue is, he can still make your food looks amazing in the photo.</p>
 				<h3> <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>&nbsp; Too serious, lack of humor.<span class="mobile-hide"><br/></span>
 				<a class="detail" href="#">Show detail</a></h3>
-				<p style="display:none;">Kai is too serious because Kai takes your business seriously.</p>
+				<p style="display:none;">Kai is too serious because he takes your business seriously.</p>
 			</div>
 			<script>
 			$(document).ready(function(){
