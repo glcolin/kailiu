@@ -60,7 +60,7 @@
 		</br>
 		Food Photography (retouch and usage fee included)
 		</br>
-		$70/image.
+		$50-80/image.
 		</br>
 		</br>
 		Interior Photography (retouch and usage fee included)

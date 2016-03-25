@@ -13,6 +13,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 	<script src="js/masonry.js"></script>
+	<script src="js/bxslider.js"></script>
 	<!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]--> 
@@ -21,9 +22,9 @@
 <body>
 	<div class="wra home">
 		<aside class="col-md-4 col-sm-12">
-			<header>
-					<p>Kai Liu Visual<br/>Affordable Food Photographer in New York</p>		
-			</header>
+			<a href="/"><header>
+					<p><span>Kai Liu Visual</span><br/>Affordable Food Photographer in New York</p>	
+			</header></a>	
 			
 			<!-- Mobile only -->
 			<nav class="navbar navbar-inverse mobile-only">
