@@ -125,6 +125,7 @@ body{
 .home .clients ul{
 	float:left;
 	margin:10px;
+	margin-bottom:0;
 	padding:0;
 	list-style:none;
 }
@@ -138,7 +139,6 @@ body{
 .home .clients ul li img{
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
-	cursor:pointer;
 }
 .home .clients ul li:hover img{
 	-webkit-filter: grayscale(0%);
@@ -265,10 +265,29 @@ body{
 	max-width:50px;
 	height:auto;
 	border-radius: 50%;
+	-webkit-filter: brightness(65%);
 }
 .home aside .portfolio ul li a:hover img{
-	opacity: 0.4;
-    filter: alpha(opacity=40);
+	-webkit-filter: brightness(100%);
+}
+.home aside .social-media {
+	height:34px;
+	margin:0 auto;
+	margin:10px;
+	text-align:center;
+}
+.home aside .social-media .icon{
+	float:left;
+	margin-right:2px;
+	width:32px;
+	height:32px;
+	overflow:hidden;
+}
+.home aside .social-media .icon  img{
+	-webkit-filter: brightness(75%);
+}
+.home aside .social-media .icon a:hover img{
+	-webkit-filter: brightness(100%);
 }
 .home aside footer{
 	text-align:center;

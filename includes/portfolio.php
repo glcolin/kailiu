@@ -11,11 +11,11 @@
 						Interior
 					</li>
 					<li>
-						<div class="overlay"><a href="people-photography"><img src="images/home-port-1.png" border="0" alt="" /></a></div><br/>
+						<div class="overlay"><a href="people-photography"><img src="images/home-port-3.png" border="0" alt="" /></a></div><br/>
 						People
 					</li>
 					<li>
-						<div class="overlay"><a href="video"><img src="images/home-port-2.png" border="0" alt="" /></a></div><br/>
+						<div class="overlay"><a href="video"><img src="images/home-port-4.png" border="0" alt="" /></a></div><br/>
 						Video
 					</li>
 				</ul>

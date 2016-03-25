@@ -16,4 +16,3 @@
 				</ul>
 				<div class="clear"></div>
 			</div>
-			<div class="divider"></div>

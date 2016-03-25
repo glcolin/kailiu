@@ -15,7 +15,7 @@ switch($page){
 		$keywords = 'food photographer, affordable food photographer, New York food photographer, New York food photography';
 		//:::END
 		$parts = array(
-				'portfolio','highlight','about','whatsinkai','clients'
+				'portfolio','highlight','about','whatsinkai','clients','social-media'
 			);
 		break;
 	case 'gallery':
@@ -25,7 +25,7 @@ switch($page){
 		$keywords = 'new york food photographer, new york interior photographer, new york event photographer';
 		//:::END
 		$parts =array(
-				'portfolio','gallery','about','clients'
+				'portfolio','gallery','about','clients','social-media'
 			);
 		$type = $_GET['type'];
 		break;
@@ -36,7 +36,7 @@ switch($page){
 		$keywords = 'food photographer, Affordable food photographer';
 		//:::END
 		$parts =array(
-				'portfolio','aboutkai','whatsinkai','clients'
+				'portfolio','aboutkai','whatsinkai','clients','social-media'
 			);
 		break;
 	case 'contact':
@@ -46,7 +46,7 @@ switch($page){
 		$keywords = 'Food Photographer, New York food photographer, New York food photography';
 		//:::END
 		$parts =array(
-				'portfolio','contact','about','clients'
+				'portfolio','contact','about','clients','social-media'
 			);
 		break;
 	case 'testimonial':
@@ -56,7 +56,7 @@ switch($page){
 		$keywords = 'New York food photographer, new york affordable food photographer';
 		//:::END
 		$parts =array(
-				'portfolio','testimonial','about','clients'
+				'portfolio','testimonial','about','clients','social-media'
 			);
 		break;
 	case 'services':
@@ -66,7 +66,7 @@ switch($page){
 		$keywords = 'new york food photography, new york affordable food photographer, new york low cost food photographer,';
 		//:::END
 		$parts =array(
-				'portfolio','services','whatsinkai','clients'
+				'portfolio','services','whatsinkai','clients','social-media'
 			);
 		break;
 	case 'blog':
@@ -76,7 +76,7 @@ switch($page){
 		$keywords = 'new york food photography blog, new york food photographer blog,';
 		//:::END
 		$parts =array(
-				'portfolio','blog','whatsinkai','clients'
+				'portfolio','blog','whatsinkai','clients','social-media'
 			);
 		break;
 	case 'article':
@@ -92,7 +92,7 @@ switch($page){
 		$index = strlen($description)%count($pool);
 		$keywords .= $pool[$index];
 		$parts =array(
-				'portfolio','article','whatsinkai','clients'
+				'portfolio','article','whatsinkai','clients','social-media'
 			);
 		break;
 	case 'video':
@@ -102,7 +102,7 @@ switch($page){
 		$keywords = 'New York videographer, New York film maker, New York event videographer';
 		//:::END
 		$parts =array(
-				'portfolio','video','about','clients'
+				'portfolio','video','about','clients','social-media'
 			);
 		break;
 	default;
