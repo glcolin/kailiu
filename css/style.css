@@ -1,9 +1,3 @@
-.element_fade_in {
-     opacity: 1;
-     position: relative;
-     padding-left: 0px;
-     right: 0px;
-}
 .tablet-only, .mobile-only{
 	display:none;
 }
@@ -113,8 +107,19 @@ body{
 	height:auto;
 	overflow:hidden;
 }
-.home .banner .bx-controls{
-	display:none !important;
+.home .banner .bx-wrapper {
+    margin: 0 0 20px 0;
+}
+.home .banner .bx-wrapper ul{
+	margin:0;
+	padding:0;
+}
+.home .banner .bx-wrapper .bx-viewport {
+    -moz-box-shadow: 0 0 0px #ccc;
+    -webkit-box-shadow: 0 0 0px #ccc; 
+    box-shadow: 0 0 50px #ccc;
+    border: 0;
+    left: 0px;
 }
 .home .about{
 	padding:10px;

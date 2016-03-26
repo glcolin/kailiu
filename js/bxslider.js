@@ -64,7 +64,7 @@
     autoStart: true,
     autoDirection: 'next',
     stopAutoOnClick: false,
-    autoHover: true,
+    autoHover: false,
     autoDelay: 0,
     autoSlideForOnePage: false,
 
