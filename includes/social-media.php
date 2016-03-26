@@ -22,9 +22,14 @@
 		<img src="images/social-media-sprout.png" alt="" border="0" style="margin-top:-92px;">
 		</a>
 	</div>
+	<div class="icon">
+		<a target="_blank" href="https://plus.google.com/+KaiLiuvisual">
+		<img src="images/social-media-sprout.png" alt="" border="0" style="margin-top:-122px;">
+		</a>
+	</div>
 	<div class="icon" style="display: none;">
 		<a target="_blank" href="#">
-		<img src="images/social-media-sprout.png" alt="" border="0" style="margin-top:-122px;">
+		<img src="images/social-media-sprout.png" alt="" border="0" style="margin-top:-152px;">
 		</a>
 	</div>
 </div>
