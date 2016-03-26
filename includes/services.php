@@ -16,7 +16,7 @@
 					<input type="text" name="name" class="form-control" placeholder="Your Name" />
 					<input type="text" name="phone" class="form-control" placeholder="Phone Number" />
 					<input type="text" name="email" class="form-control" placeholder="Email Address" />
-					<textarea  name="message" class="form-control"  placeholder="Fell free to message me ..."></textarea>
+					<textarea  name="message" class="form-control"  placeholder="Feel free to message me ..."></textarea>
 					<input type="submit" class="form-control btn-success" value="Submit" />
 				</div>
 			</form>
@@ -52,7 +52,7 @@
 		<li>Affordable, low cost rate, yet still providing great result.</li>
 		<li>Fast turn around time.</li>
 		<li>Excellent lighting skill and tethered screen for client's real time feedback</li>
-		<li>I prefer per image price policy. Worry-free on your side. If you do not like any photo I take. Fine, you do not need to spend a dime.</li>
+		<li>I prefer per image price policy. Worry-free on your side. You control how much money you want to spend.</li>
 		<li>Reliable, strong working ethic. I believe these characteristics outweigh any sell skill for a business relationship in long term.</li>
 		</p>
 		<p>
@@ -60,7 +60,7 @@
 		</br>
 		Food Photography (retouch and usage fee included)
 		</br>
-		$50-80/image.
+		$50-80/image. (Will give discount for over 20 images)
 		</br>
 		</br>
 		Interior Photography (retouch and usage fee included)
