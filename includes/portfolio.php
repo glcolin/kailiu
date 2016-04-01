@@ -12,7 +12,7 @@
 					</li>
 					<li>
 						<div class="overlay"><a href="people-photography"><img src="images/home-port-3.png" border="0" alt="" /></a></div><br/>
-						People
+						Event
 					</li>
 					<li>
 						<div class="overlay"><a href="video"><img src="images/home-port-4.png" border="0" alt="" /></a></div><br/>
