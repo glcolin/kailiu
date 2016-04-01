@@ -509,6 +509,20 @@ article img{
 }
 /****************
 *
+*	Paypal
+*
+****************/
+.paypal{
+	padding-left:15px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.paypal p{
+	font-size:12px;
+	color:#BBB;
+}
+/****************
+*
 * < 1500px
 *
 ****************/
