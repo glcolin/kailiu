@@ -12,9 +12,9 @@
 <input type="hidden" name="business" value="liukaitc@gmail.com">
         <!-- Begin First Item -->
 <input type="hidden" name="quantity_1" value="1">
-<input type="hidden" name="item_name_1" value="Photography Online Payment">
+<input type="hidden" name="item_name_1" value="Photography down Payment">
 
-<input type="hidden" name="amount_1" value="1.00">
+<input type="hidden" name="amount_1" value="50.00">
 <input type="hidden" name="currency_code" value="USD">
 
 <input type="image" src="https://www.sandbox.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="upload" alt="Make payments with PayPal - it's fast, free and secure!" width="87" height="23">
