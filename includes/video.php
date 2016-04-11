@@ -2,23 +2,26 @@
 <div class="tablet-only title highlight">About Kai</div>
 <div class="divider"></div>	
 <article class="kai">
-		<h2>All video were shoot and edit by Kai Liu Visual</h2>
+		<h2>This page is devoted to my New York foodie project. All video were shoot and edit by Kai Liu Visual</h2>
+		<p>There are so many many Chinese residents and tourists in New York. We want to know good restaurant for eat. But there is lack of information online for those Chinese people. My project is aiming at giving guide to Chinese people where to eat in New York. We speak Chinese in the video and I put English subtitle. So even American can watch my video.</p>
+		
+		<div class="divider"></div>
 	
-		<h3></h3>
-		<iframe src="https://player.vimeo.com/video/157240549" width="100%" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/157240549">02 18 2016 NY fashion week after party</a> from <a href="https://vimeo.com/kailiuvisual">kailiuvisual</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+		<h3>New York Foodie 紐約食客 Ep1. delichina 满庭香</h3>
+		<p>39-16 Prince Street #209</p>
+		<p>Flushing, NY 11354</p>
+		<p>(917)-983-6666</p>
+		<iframe width="100%" height="480" src="https://www.youtube.com/embed/_TZnzyKL8Rk" frameborder="0" allowfullscreen></iframe></p>
 		
-		<h3></h3>
-		<iframe src="https://player.vimeo.com/video/117686160" width="100%" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/117686160">Preserve24</a> from <a href="https://vimeo.com/kailiuvisual">kailiuvisual</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+		<div class="divider"></div>
 		
-		<h3></h3>
-		<iframe src="https://player.vimeo.com/video/116174530" width="100%" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/116174530">T-swirl cr&ecirc;pe</a> from <a href="https://vimeo.com/kailiuvisual">kailiuvisual</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+		<h3>New York Foodie 紐約食客 Ep2. Turkish Kitchen</h3>
+		<p>386 Third Avenue (between 27th & 28th)</p>
+		<p>New York, NY 10016</p>
+		<p>(212)-679-6633</p>
+		<iframe width="100%" height="480" src="https://www.youtube.com/embed/Dmo0kEdg8HQ" frameborder="0" allowfullscreen></iframe></p>
 		
-		<h3></h3>
-		<iframe src="https://player.vimeo.com/video/116165563" width="100%" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/116165563">KaiLiu Visual Live event video Reel</a> from <a href="https://vimeo.com/kailiuvisual">kailiuvisual</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+	
 
 	
 </article>
