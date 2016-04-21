@@ -5,7 +5,7 @@
 	
 	<h2>Welcome to Kai Liu(The food photographer)'s Blog</h2>
 	<p>
-	Welcome! Dropdowns are automatically positioned via CSS within the normal flow of the document. This means dropdowns may be cropped by parents with certain overflow properties or appear out of bounds of the viewport. Address these issues on your own as they arise.
+	All articles are my original contents.
 	</p>
 	
 	<div class="blog-list">
