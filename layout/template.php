@@ -27,7 +27,7 @@
 	<div class="wra home">
 		<aside class="col-md-4 col-sm-12">
 			<a href="/"><header>
-					<p><span>Kai Liu Visual</span><br/>Affordable Food Photographer in New York</p>	
+					<p><span>Kai Liu Visual</span><br/>Affordable Food Photographer / Videographer in New York</p>	
 			</header></a>	
 			
 			<!-- Mobile only -->

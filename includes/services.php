@@ -52,7 +52,6 @@
 		<li>Affordable, low cost rate, yet still providing great result.</li>
 		<li>Fast turn around time.</li>
 		<li>Excellent lighting skill and tethered screen for client's real time feedback</li>
-		<li>I prefer per image price policy. Worry-free on your side. You control how much money you want to spend.</li>
 		<li>Reliable, strong working ethic. I believe these characteristics outweigh any sell skill for a business relationship in long term.</li>
 		</p>
 		<p>
@@ -60,7 +59,7 @@
 		</br>
 		Food Photography (retouch and usage fee included)
 		</br>
-		$50-80/image
+		$400-600/half day. $700-900/full day
 		</br>
 		</br>
 		Interior Photography (retouch and usage fee included)
