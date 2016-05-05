@@ -105,6 +105,16 @@ switch($page){
 				'portfolio','video','about','clients','social-media','paypal'
 			);
 		break;
+	case 'sitemap':
+		//BEGIN:::
+		$title = 'Kai Liu videographer | film maker';
+		$description = 'Kai Liu Visual provide video service';
+		$keywords = 'New York videographer, New York film maker, New York event videographer';
+		//:::END
+		$parts =array(
+				'portfolio','sitemap','about','clients','social-media','paypal'
+			);
+		break;
 	default;
 		die('PAGE NOT EXIST');
 		break;

@@ -73,7 +73,7 @@
 					
 			<footer>
 			<div class="infobar"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> liukaitc@gmail.com | <span class="glyphicon glyphicon-phone" aria-hidden="true"></span> (646)-750-1803</div>
-			&copy; 2011-2016, designed and promoted by <a href="http://www.369usa.com">www.369usa.com</a>
+			&copy; 2011-2016, sited by <a style="color:#BBB;" href="http://www.369usa.com">www.369usa.com</a> | <a style="color:#BBB;" href="sitemap">Sitemap</a>
 			</footer>
 		</aside>
 		<section class="col-md-8">

@@ -523,6 +523,21 @@ article img{
 }
 /****************
 *
+*	Paypal
+*
+****************/
+.sitemap{
+	margin-bottom:50px;
+}
+.sitemap a{
+	color:#CCC;
+}
+.sitemap a:hover{
+	color:#ACD048;
+	text-decoration:none;
+}
+/****************
+*
 * < 1500px
 *
 ****************/
