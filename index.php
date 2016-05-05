@@ -10,7 +10,7 @@ switch($page){
 
 	case 'index':
 		//BEGIN:::
-		$title = 'Affordable Food Photographer | New York - Kai Liu Visual';
+		$title = 'Affordable Food Photographer | Videographer | New York - Kai Liu Visual';
 		$description = 'Kai Liu is a New York based photographer and videographer. He specialize in food photography. Food Photographer. Interior Photographer. Videographer.';
 		$keywords = 'food photographer, affordable food photographer, New York food photographer, New York food photography';
 		//:::END
@@ -32,7 +32,7 @@ switch($page){
 	case 'about':
 		//BEGIN:::
 		$title = 'About Kai Liu Visual';
-		$description = 'I am a New York based freelance photographer/videographer. I spealize in food photography. I am also doing video for event, shows, wedding, music video and commercial video.';
+		$description = 'I am a New York based freelance photographer/videographer. I specialize in food photography. I am also doing video for event, shows, wedding, music video and commercial video.';
 		$keywords = 'food photographer, Affordable food photographer';
 		//:::END
 		$parts =array(
@@ -63,7 +63,7 @@ switch($page){
 		//BEGIN:::
 		$title = 'Service of Kai Liu Visual';
 		$description = 'Kai Liu Visual provides high quality food photography service with best price in New York.';
-		$keywords = 'new york food photography, new york affordable food photographer, new york low cost food photographer,';
+		$keywords = 'new york food photography, new york affordable food photographer, new york food photographer,';
 		//:::END
 		$parts =array(
 				'portfolio','services','whatsinkai','clients','social-media','paypal'
@@ -73,7 +73,7 @@ switch($page){
 		//BEGIN:::
 		$title = 'Blog of Kai Liu Visual';
 		$description = '';
-		$keywords = 'new york food photography blog, new york food photographer blog,';
+		$keywords = 'new york food photography blog, food photographer blog,';
 		//:::END
 		$parts =array(
 				'portfolio','blog','whatsinkai','clients','social-media','paypal'
